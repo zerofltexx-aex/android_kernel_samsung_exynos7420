@@ -76,6 +76,7 @@
 #include <linux/binfmts.h>
 #include <linux/context_tracking.h>
 #include <linux/exynos-ss.h>
+#include <linux/cpufreq.h>
 
 #include <asm/switch_to.h>
 #include <asm/tlb.h>
